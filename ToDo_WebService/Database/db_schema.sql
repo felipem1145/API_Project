@@ -1,4 +1,4 @@
-CREATE DATABASE ToDo_WebService
+/*CREATE DATABASE ToDo_WebService*/
 
 DROP TABLE  IF EXISTS Tasks;
 
